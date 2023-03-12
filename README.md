@@ -10,12 +10,12 @@ More details regarding the network will be added here.
 2. Next, install the conda environment required to use this model.
 
 ```
- conda env create --name chem_ml --file=environments.yml
+ conda env create --name chem_ml --file=environment.yml
 ```
 
 3. Activate the conda environment.
 ```
-conda active chem_ml
+conda activate chem_ml
 ```
 
 4. To train a model, run the train_phasegnn.py file and give it the critical property (P_c or T_c) using the -c flag and number of epochs (default: 1000) using the -e flag. For example:
