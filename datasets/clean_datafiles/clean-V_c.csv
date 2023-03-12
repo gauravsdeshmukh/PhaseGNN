@@ -1,0 +1,61 @@
+,name,V_c,smiles
+0,Methane,0.0986,C
+1,Acetylene,0.1122,C#C
+2,Ethane,0.147,CC
+3,Methylamine,0.1385,CN
+4,Methyl Alcohol,0.117,CO
+5,Propyne,0.1635,CC#C
+6,Cyclopropane,0.162,C1CC1
+7,Propene,0.1846,CC=C
+8,Carbon dioxide,0.0919,O=C=O
+9,Propane,0.2,CCC
+10,Ethanol,0.168,CCO
+11,Dimethyl ether,0.164,COC
+12,1-Butyne,0.208,CCC#C
+13,"1,3-Butadiene",0.221,C=CC=C
+14,1-Butene,0.2408,CCC=C
+15,Propylene oxide,0.195,CC1CO1
+16,Butane,0.255,CCCC
+17,Isobutane,0.259,CC(C)C
+18,"Methylamine, N,N-dimethyl-",30.0,CN(C)C
+19,Carbonyl sulfide,0.1351,O=C=S
+20,"Ethane, methoxy-",0.222,CCOC
+21,1-Propanol,0.218,CCCO
+22,Isopropyl Alcohol,0.222,CC(C)O
+23,Furan,0.219,o1cccc1
+24,Cyclopentene,0.245,C1CC=CC1
+25,"1-Butene, 3-methyl-",0.3049,CC(C)C=C
+26,Cyclopentane,0.259,C1CCCC1
+27,1-Pentene,0.2984,CCCC=C
+28,Tetrahydrofuran,0.225,C1CCOC1
+29,"Butane, 2-methyl-",0.306,CCC(C)C
+30,Neopentane,0.307,CC(C)(C)C
+31,Pentane,0.311,CCCCC
+32,"1-Propanol, 2-methyl-",0.274,CC(C)CO
+33,"2-Propanol, 2-methyl-",0.275,CC(C)(C)O
+34,1-Butanol,0.274,CCCCO
+35,Ethyl ether,0.274,CCOCC
+36,Benzene,0.25,c1ccccc1
+37,Pyridine,0.253,c1ccncc1
+38,"Furan, 2-methyl-",0.247,Cc1occc1
+39,Thiophene,0.22,s1cccc1
+40,Cyclohexane,0.308,C1CCCCC1
+41,1-Hexene,0.3551,CCCCC=C
+42,"Cyclopentane, methyl-",0.318,CC1CCCC1
+43,"Furan, tetrahydro-2-methyl-",0.267,CC1CCCO1
+44,"Butane, 2,2-dimethyl-",0.358,CCC(C)(C)C
+45,"Butane, 2,3-dimethyl-",0.361,CC(C)C(C)C
+46,"Pentane, 2-methyl-",0.368,CCCC(C)C
+47,"Pentane, 3-methyl-",0.368,CCC(C)CC
+48,n-Hexane,0.368,CCCCCC
+49,Difluorochloromethane,0.147,FC(F)Cl
+50,Tetrafluoromethane,0.142,FC(F)(F)F
+51,"1,4-Dioxane",0.239,C1COCCO1
+52,"Butane, 1-methoxy-",0.329,CCCCOC
+53,1-Pentanol,0.326,CCCCCO
+54,2-Pentanol,0.329,CCCC(C)O
+55,3-Pentanol,0.325,CCC(O)CC
+56,"Silane, tetramethyl-",0.362,C[Si](C)(C)C
+57,"Ethane, 1,2-dimethoxy-",0.271,COCCOC
+58,"Methane, bromodifluoro-",0.275,FC(F)Br
+59,Trichloromonofluoromethane,0.247,FC(Cl)(Cl)Cl

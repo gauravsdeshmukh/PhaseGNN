@@ -1,0 +1,15 @@
+critical_property:P_c
+node_vec_len:40
+max_atoms:100
+node_fea_len:20
+hidden_fea_len:10
+n_conv:4
+n_hidden:2
+n_outputs:1
+train_size:0.6
+val_size:0.2
+batch_size:100
+use_GPU:True
+optimizer:adam
+epochs:1000
+name:first_test_Pc
