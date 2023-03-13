@@ -25,6 +25,6 @@ python train_phasegnn.py -c T_c -e 1000
 
 5. To evaluate a trained model on a specified molecule, run the evaluate_phasegnn.py file. Give it a critical property (P_c or T_c) using the -c flag and molecule name (common name or IUPAC name, spaces are okay in name) using the -n flag. For example:
 ```
-python evaluate_phasegnn.py -c T_c -e aniline
+python evaluate_phasegnn.py -c T_c -n aniline
 ```
 
